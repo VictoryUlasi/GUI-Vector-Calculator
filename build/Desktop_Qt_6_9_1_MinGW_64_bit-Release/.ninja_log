@@ -1,0 +1,18 @@
+# ninja log v6
+25	1034	7740553284454473	ActualVectorCalculator_autogen/timestamp	b71f7027ad45eaa7
+1035	4128	7740553285454700	CMakeFiles/ActualVectorCalculator.dir/ActualVectorCalculator_autogen/mocs_compilation.cpp.obj	494209f4cc7746
+20	4301	7740561041214350	CMakeFiles/ActualVectorCalculator.dir/mainwindow.cpp.obj	70742fff2609cbf5
+25	1034	7740553284454473	ActualVectorCalculator_autogen/mocs_compilation.cpp	b71f7027ad45eaa7
+25	1034	7740553284454473	C:/Users/Victo/OneDrive/Desktop/QT/ActualVectorCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ActualVectorCalculator_autogen/timestamp	b71f7027ad45eaa7
+1038	4063	7740553285484699	CMakeFiles/ActualVectorCalculator.dir/main.cpp.obj	cc01905c6b98e6e7
+25	1034	7740553284454473	C:/Users/Victo/OneDrive/Desktop/QT/ActualVectorCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ActualVectorCalculator_autogen/mocs_compilation.cpp	b71f7027ad45eaa7
+1046	1463	7740553285564718	CMakeFiles/ActualVectorCalculator.dir/vector.cpp.obj	2aa864d1d8872e14
+4303	4529	7740561084034079	ActualVectorCalculator.exe	e2d0d20ffb9d9e49
+30	59	7740553273857782	CMakeFiles/clean.additional	321391b2684b2653
+60	70	7740553274147843	clean	577b940aee94fbd7
+43	271	7740564704977866	ActualVectorCalculator_autogen/timestamp	b71f7027ad45eaa7
+43	271	7740564704977866	ActualVectorCalculator_autogen/mocs_compilation.cpp	b71f7027ad45eaa7
+43	271	7740564704977866	C:/Users/Victo/OneDrive/Desktop/QT/ActualVectorCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ActualVectorCalculator_autogen/timestamp	b71f7027ad45eaa7
+43	271	7740564704977866	C:/Users/Victo/OneDrive/Desktop/QT/ActualVectorCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ActualVectorCalculator_autogen/mocs_compilation.cpp	b71f7027ad45eaa7
+272	3879	7740564707258386	CMakeFiles/ActualVectorCalculator.dir/mainwindow.cpp.obj	70742fff2609cbf5
+3879	4082	7740564743335471	ActualVectorCalculator.exe	e2d0d20ffb9d9e49
